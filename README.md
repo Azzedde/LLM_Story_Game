@@ -12,6 +12,8 @@ To start playing, simply provide your OpenAI GPT API key and HuggingFace token i
 ------
 #### Architecture:
 I used mainly langchain chains and well curated prompts to get the output as needed, then the hp,mana and luck setup was pure python programming. Everything was wrapped up in a streamlit app.
+
+
 ![LLM_Game](https://github.com/user-attachments/assets/bd498292-82ff-451d-bf18-6a631deca3aa)
 
 ------
